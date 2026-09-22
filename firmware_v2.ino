@@ -21,7 +21,7 @@
 const char* WIFI_SSID = "Wokwi-GUEST";
 const char* WIFI_PASS = "";
 
-const char* VERSION_URL = "https://raw.githubusercontent.com/SEU_USUARIO/repositorio-firmware/main/version.json";
+const char* VERSION_URL = "https://raw.githubusercontent.com/victor-hugo-ab/repositorio-firmware/main/version.json";
 
 const String CURRENT_VERSION = "2.0";
 
