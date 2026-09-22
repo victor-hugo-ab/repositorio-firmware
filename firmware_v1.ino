@@ -23,7 +23,7 @@ const char* WIFI_PASS = "";
 
 // Troque pela URL RAW do seu version.json no GitHub, ex:
 // https://raw.githubusercontent.com/SEU_USUARIO/repositorio-firmware/main/version.json
-const char* VERSION_URL = "https://raw.githubusercontent.com/SEU_USUARIO/repositorio-firmware/main/version.json";
+const char* VERSION_URL = "https://raw.githubusercontent.com/victor-hugo-ab/repositorio-firmware/main/version.json";
 
 const String CURRENT_VERSION = "1.0";
 
