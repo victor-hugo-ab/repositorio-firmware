@@ -1,6 +1,10 @@
 # repositorio-firmware — Projeto Motiva (OTA) — S2-CP02
 
-**Integrante(s) / RM(s):** _preencher_
+**Integrante(s) / RM(s): 
+VICTOR HUGO ALMEIDA BAHIA, 564633
+ENZO CERNEVIVA, 563480 
+MATHEUS LARA CARNEIRO, 564049
+
 
 ## Arquitetura da solução
 
@@ -43,8 +47,7 @@ Fluxo: consultar version.json -> comparar versão -> baixar .bin -> gravar OTA -
 
 ## Links
 
-- Projeto Wokwi (demonstração): `<colar link público>`
-- Repositório remoto (este): `<colar link do GitHub>`
+- Projeto Wokwi: `(https://wokwi.com/projects/475911534808257537)`
 
 ## Testes realizados
 
